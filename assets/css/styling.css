@@ -70,7 +70,7 @@ h4 {
 }
 
 .about-us-section p {
-	width: 48em;
+	/*width: 48em;*/
 	text-align: center;
     margin: 0 auto;
 }
@@ -79,32 +79,74 @@ h4 {
 	padding: 0px;
 }
 
-.first-container {
-	height: 70px;
+.about-us-subtitle-1 {
+	height: 280px;
+	width: 100%;
+	/*background-color: #04202C;*/
+	border: 2px solid #04202C;
+	margin-top: 25px;
+}
+
+.sub-title-1 {
+	height: 45px;
+	width: 100%;
 	background-color: #04202C;
 }
 
-.second-container {
-	height: 70px;
+.about-us-subtitle-2 {
+	height: 280px;
+	width: 100%;
+	/*background-color: #304040;*/
+	border: 2px solid #304040;
+	margin-top: 25px;
+}
+
+.sub-title-2 {
+	height: 45px;
+	width: 100%;
 	background-color: #304040;
 }
 
-.third-container {
-	height: 70px;
+.about-us-subtitle-3 {
+	height: 280px;
+	width: 100%;
+	/*background-color: #5B7065;*/
+	border: 2px solid #5B7065;
+	margin-top: 25px;
+}
+
+.sub-title-3 {
+	height: 45px;
+	width: 100%;
 	background-color: #5B7065;
 }
 
-.first-text-containment {
-	border: 2px solid #04202C;
-	height: 70px;
+/*
+	First Banner
+*/
+
+.first-banner {
+	margin: 40px 0px;
+	height: 400px;
+	background-color: black;
 }
 
-.second-text-containment {
-	border:2px solid #304040;
-	height: 70px;
+.bg-banner {
+	background: url(../images/mikhail-pavstyuk-8436.jpg) center center;
+    background-size: cover;
+    height: 100%;
 }
 
-.third-text-containment {
-	border: 2px solid #5B7065;
-	height: 70px;
+.banner-button {
+	position: relative;
+    top: 10em;
+    width: 450px;
+	border: 4px solid white;
+	margin: auto auto;
+}
+
+.banner-button h2 {
+	text-align: center;
+	margin: 0px;
+	padding: 20px 0px 25px 0px;
 }
