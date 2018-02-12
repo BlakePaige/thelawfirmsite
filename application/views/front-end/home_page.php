@@ -77,10 +77,38 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 						PRACTICE AREAS
 					</h2>
 					<hr class="about-us-underline">
-					<!-- <p class="col-md-12 col-sm-12 col-xs-12">
-						The group was founded in response to an identified need of law firms to strategically position themselves for the future and access the economies of scale of a national group with national visibility and brand awareness.
-					</p> -->
 				</div>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="first-practice">
+				<i class="far fa-money-bill-alt"></i>	
+				<h3 class="icon fa-comment">PENSION LAW</h3>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="first-practice">
+				<h3 class="icon fa-comment">PENSION LAW</h3>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="first-practice">
+				<h3 class="icon fa-comment">PENSION LAW</h3>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="first-practice">
+				<h3 class="icon fa-comment">PENSION LAW</h3>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="first-practice">
+				<h3 class="icon fa-comment">PENSION LAW</h3>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="first-practice">
+				<h3 class="far fa-money-bill-alt">PENSION LAW</h3>
 			</div>
 		</div>
 	</div>
