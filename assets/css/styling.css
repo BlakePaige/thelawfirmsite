@@ -56,9 +56,7 @@ h4 {
 	About Us Section
 */
 .about-us-section {
-	height: 150px;
-	position: relative;
-	top: 3em;
+	padding: 60px 0px;
 }
 
 .about-us-section h2 {
@@ -75,4 +73,38 @@ h4 {
 	width: 48em;
 	text-align: center;
     margin: 0 auto;
+}
+
+.blocks-padding {
+	padding: 0px;
+}
+
+.first-container {
+	height: 70px;
+	background-color: #04202C;
+}
+
+.second-container {
+	height: 70px;
+	background-color: #304040;
+}
+
+.third-container {
+	height: 70px;
+	background-color: #5B7065;
+}
+
+.first-text-containment {
+	border: 2px solid #04202C;
+	height: 70px;
+}
+
+.second-text-containment {
+	border:2px solid #304040;
+	height: 70px;
+}
+
+.third-text-containment {
+	border: 2px solid #5B7065;
+	height: 70px;
 }
