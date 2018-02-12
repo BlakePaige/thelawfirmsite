@@ -51,3 +51,28 @@ h4 {
 	margin-bottom: 0px;
 	padding: 5px;
 }
+
+/*
+	About Us Section
+*/
+.about-us-section {
+	height: 150px;
+	position: relative;
+	top: 3em;
+}
+
+.about-us-section h2 {
+	color: #343a40;
+	text-align: center;
+}
+
+.about-us-underline {
+	border-bottom: 2px solid #343a40;
+    width: 7em;
+}
+
+.about-us-section p {
+	width: 48em;
+	text-align: center;
+    margin: 0 auto;
+}
