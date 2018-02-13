@@ -81,33 +81,81 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 			</div>
 		</div>
 		<div class="col-md-6">
-			<div class="first-practice">
-				<h3 class="far fa-money-bill-alt">PENSION LAW</h3>
+			<div class="first-practice text-center">
+				<h3 class="far fa-money-bill-alt">Pension Law</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
 			</div>
 		</div>
 		<div class="col-md-6">
-			<div class="first-practice">
-				<h3 class="icon fa-comment">PENSION LAW</h3>
+			<div class="second-practice text-center">
+				<h3 class="fas fa-balance-scale">Labour Law</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
 			</div>
 		</div>
 		<div class="col-md-6">
-			<div class="first-practice">
-				<h3 class="icon fa-comment">PENSION LAW</h3>
+			<div class="third-practice text-center">
+				<h3 class="far fa-clipboard">Forensic Investigation</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
 			</div>
 		</div>
 		<div class="col-md-6">
-			<div class="first-practice">
-				<h3 class="icon fa-comment">PENSION LAW</h3>
+			<div class="fourth-practice text-center">
+				<h3 class="far fa-building">Commecial and Corporate Law</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
 			</div>
 		</div>
 		<div class="col-md-6">
-			<div class="first-practice">
-				<h3 class="icon fa-comment">PENSION LAW</h3>
+			<div class="fifth-practice text-center">
+				<h3 class="fas fa-university">Municipal Law</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
 			</div>
 		</div>
 		<div class="col-md-6">
-			<div class="first-practice">
-				<h3 class="far fa-money-bill-alt">PENSION LAW</h3>
+			<div class="sixth-practice text-center">
+				<h3 class="fas fa-child">Human Rights Law</h3>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
 			</div>
 		</div>
 	</div>

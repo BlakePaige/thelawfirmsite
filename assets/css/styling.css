@@ -165,16 +165,35 @@ h4 {
     color: #343a40;
 }
 
-.first-practice h3 {
+.first-practice h3,
+.second-practice h3,
+.third-practice h3,
+.fourth-practice h3,
+.fifth-practice h3,
+.sixth-practice h3 {
 	color: #343a40;
 	text-align: center;
 }
 
-.first-practice h3:before {
-	width: 64px;
+.first-practice h3:before,
+.second-practice h3:before,
+.third-practice h3:before,
+.fourth-practice h3:before,
+.fifth-practice h3:before,
+.sixth-practice h3:before {
+	/*width: 64px;
     height: 64px;
-    line-height: 64px;
+    line-height: 64px;*/
     margin-right: 0.75em;
-    font-size: 32px;
-    top: 0.2em;
+    /*font-size: 32px;
+    top: 0.2em;*/
+}
+
+.first-practice p,
+.second-practice p,
+.third-practice p,
+.fourth-practice p,
+.fifth-practice p,
+.sixth-practice p {
+	text-align: justify;
 }
