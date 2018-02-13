@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/bootstrap.css") ?>">
-		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/fontawesome/web-fonts-with-css/css/fontawesome.css") ?>">
+		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/fontawesome/web-fonts-with-css/css/fontawesome-all.css") ?>">
 		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/styling.css") ?>">
 	</head>
 <body>

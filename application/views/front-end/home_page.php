@@ -82,8 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 		</div>
 		<div class="col-md-6">
 			<div class="first-practice">
-				<i class="far fa-money-bill-alt"></i>	
-				<h3 class="icon fa-comment">PENSION LAW</h3>
+				<h3 class="far fa-money-bill-alt">PENSION LAW</h3>
 			</div>
 		</div>
 		<div class="col-md-6">
