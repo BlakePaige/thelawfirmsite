@@ -9,6 +9,12 @@ h4 {
 	color: white;
 }
 
+textarea:focus,
+input:focus,
+button:focus {
+    outline: none;
+}
+
 /*
 	Navbar Section
 */
@@ -223,7 +229,7 @@ h4 {
 
 .bg-contact-us-container {
 	background-color: aliceblue;
-	height: 645px;
+	height: 700px;
 	background: url(../images/vadim-sherbakov-68.jpg) center center;
     background-size: cover;
 }
