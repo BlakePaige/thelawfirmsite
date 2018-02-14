@@ -160,3 +160,41 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 		</div>
 	</div>
 </div>
+<section class="bg-contact-us-container">
+	<div class="container">
+		<div class="row">
+			<div class="contain-contact-us">
+				<div class="contact-us-section text-center">
+					<h2>
+						Contact Us
+					</h2>
+					<hr class="contact-us-underline">
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="row">
+					<input type="text" name="names" placeholder="Full Names" class="name-input">
+					<input type="text" name="email" placeholder="Email" class="email-input">
+					<input type="text" name="subject" placeholder="Subject" class="subject-input">
+					<textarea rows="10" cols="80" placeholder="Message">
+						
+					</textarea>
+
+					<button class="submit-btn">Submit</button>
+				</div>
+				
+			</div>
+			<div class="col-md-6">
+				
+			</div>
+			<!-- <div class="contact-container">
+				<div class="contact-form">
+					
+				</div>
+				<div class="contact-details">
+					
+				</div>	
+			</div> -->
+		</div>
+	</div>	
+</section>

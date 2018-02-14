@@ -9,7 +9,17 @@ h4 {
 	color: white;
 }
 
+/*
+	Navbar Section
+*/
 
+.nav-bg-color {
+	background-color: #343a40 !important;
+}
+
+.nav-text-color {
+	color: white !important;
+}
 
 
 
@@ -197,3 +207,63 @@ h4 {
 .sixth-practice p {
 	text-align: justify;
 }
+
+/*
+	Contact Section
+*/
+
+.contain-contact-us {
+	width: 100%;
+	padding-top: 50px;
+}
+
+.contact-us-section h2 {
+	color: white;
+}
+
+.bg-contact-us-container {
+	background-color: aliceblue;
+	height: 500px;
+	background: url(../images/vadim-sherbakov-68.jpg) center center;
+    background-size: cover;
+}
+
+.contact-us-underline {
+	border-bottom: 2px solid white;
+    width: 7em;
+}
+
+.name-input {
+	width: 50%;
+}
+
+.email-input {
+	width: 50%;
+}
+
+.subject-input {
+	width: 100%;
+}
+
+.submit-btn {
+	width: 100%;
+}
+
+
+/*.contact-container {
+	height: 600px;
+}
+
+.contact-form {
+	width: 50%;
+	height: 100%;
+	background-color: yellow;
+	display: none;
+}
+
+.contact-details {
+	float: right;
+	width: 50%;
+	height: 100%;
+	background-color: green;
+}*/
