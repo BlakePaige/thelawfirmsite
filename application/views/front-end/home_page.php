@@ -188,8 +188,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				</div>
 				
 			</div>
-			<div class="col-md-6">
-				
+			<div class="col-md-6 contact-details-section">
+				<div class="row">
+					<div class="col-md-12 contacts-details">
+						<h4 class="text-center">Contact Details</h4>
+						<div><label class="contacts-opening" for="">Open Hours:</label></div>
+						<div><label class="" for="">8:00h - 1600h</label></div>
+						<div><label class="contacts-address" for="">Address:</label></div>
+						<div><label class="" for="">47 Addrere Str <br> Theunissen <br>9410</label></div>
+						<div><label class="contacts-phone" for="">Phone:</label></div>
+						<div><label class="" for="">086 7345 879</label></div>
+						<div><label class="contacts-cell" for="">Cell:</label></div>
+						<div><label class="" for="">083 4567 890</label></div>
+					</div>
+				</div>
 			</div>
 			<!-- <div class="contact-container">
 				<div class="contact-form">
