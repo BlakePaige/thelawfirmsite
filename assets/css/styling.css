@@ -41,7 +41,7 @@ button:focus {
 }
 
 .background-banner-image {
-    background: url(../images/giammarco-boscaro.jpg) center center no-repeat;
+    background: url(../images/malte-baumann-82231.jpg) center center no-repeat;
     background-size: cover;
     height: 100%;
 }
@@ -189,6 +189,7 @@ button:focus {
 .sixth-practice h3 {
 	color: #343a40;
 	text-align: center;
+	font-weight: 900;
 }
 
 .first-practice h3:before,
@@ -271,6 +272,22 @@ button:focus {
 	color: #b9a7a7;
 	border: 2px solid #b9a7a7;
 	margin-top: 15px;
+}
+
+.contact-details-section label {
+	color: #b9a7a7;
+}
+
+.contacts-opening:before,
+.contacts-address:before,
+.contacts-phone:before,
+.contacts-cell:before {
+	margin-right: 0.90em;
+	color: #b9a7a7;
+}
+
+.contact-address-position {
+	margin: 5px 0px 5px 32px;
 }
 
 

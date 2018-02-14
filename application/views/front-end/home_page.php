@@ -80,9 +80,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				</div>
 			</div>
 		</div>
-		<div class="col-md-6">
+
+		<!-- 
+			Commercial Law
+			Labour Law
+			Public Law
+		-->
+
+
+		<div class="col-md-4">
 			<div class="first-practice text-center">
-				<h3 class="far fa-money-bill-alt">Pension Law</h3>
+				<h3 class="far fa-building">Commercial Law</h3>
+
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -93,9 +102,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				</p>
 			</div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-4">
 			<div class="second-practice text-center">
-				<h3 class="fas fa-balance-scale">Labour Law</h3>
+				<h3 class="fas fa-user">Labour Law</h3>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -106,9 +115,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				</p>
 			</div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-4">
 			<div class="third-practice text-center">
-				<h3 class="far fa-clipboard">Forensic Investigation</h3>
+				<h3 class="far fa-universal-access">Public Law</h3>
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -119,7 +128,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				</p>
 			</div>
 		</div>
-		<div class="col-md-6">
+		<!-- <div class="col-md-6">
 			<div class="fourth-practice text-center">
 				<h3 class="far fa-building">Commecial and Corporate Law</h3>
 				<p>
@@ -157,7 +166,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 				</p>
 			</div>
-		</div>
+		</div> -->
 	</div>
 </div>
 <section class="bg-contact-us-container">
@@ -192,14 +201,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 				<div class="row">
 					<div class="col-md-12 contacts-details">
 						<h4 class="text-center">Contact Details</h4>
-						<div><label class="contacts-opening" for="">Open Hours:</label></div>
-						<div><label class="" for="">8:00h - 1600h</label></div>
-						<div><label class="contacts-address" for="">Address:</label></div>
-						<div><label class="" for="">47 Addrere Str <br> Theunissen <br>9410</label></div>
-						<div><label class="contacts-phone" for="">Phone:</label></div>
-						<div><label class="" for="">086 7345 879</label></div>
-						<div><label class="contacts-cell" for="">Cell:</label></div>
-						<div><label class="" for="">083 4567 890</label></div>
+						<div>
+							<label class="far fa-clock contacts-opening" for="">Open Hours:</label>
+							<label class="" for="">8:00h - 1600h</label>
+						</div>
+						<div><label class="fas fa-home contacts-address" for="">Address:</label></div>
+						<div><label class="contact-address-position" for="">47 Addrere Str <br> Theunissen <br>9410</label></div>
+						<div>
+							<label class="fas fa-phone contacts-phone" for="">Phone:</label>
+							<label class="" for="">086 7345 879</label>
+						</div>
+						<div><label class="fas fa-mobile-alt contacts-cell" for="">Cell:</label>
+						<label class="" for="">083 4567 890</label></div>
 					</div>
 				</div>
 			</div>
