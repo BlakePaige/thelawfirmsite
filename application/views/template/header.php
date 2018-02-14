@@ -11,6 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 
 		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css") ?>"> 
 		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/tether/dist/css/tether.css") ?>">
+		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/normalize.css") ?>">
 		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/bootstrap.css") ?>">
 		<link rel="stylesheet" type="text/css" href="<?= base_url("assets/css/styling.css") ?>">
 	</head>

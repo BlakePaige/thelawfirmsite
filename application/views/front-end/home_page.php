@@ -173,14 +173,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 			</div>
 			<div class="col-md-6">
 				<div class="row">
-					<input type="text" name="names" placeholder="Full Names" class="name-input">
-					<input type="text" name="email" placeholder="Email" class="email-input">
-					<input type="text" name="subject" placeholder="Subject" class="subject-input">
-					<textarea rows="10" cols="80" placeholder="Message">
+					<label class="contacts-labels">Names</label>
+					<input type="text" name="names" class="name-input">
+					<label class="contacts-labels">Email</label>
+					<input type="text" name="email" class="email-input">
+					<label class="contacts-labels">Cell No.</label>
+					<input type="text" name="email" class="email-input">
+					<label class="contacts-labels">Message</label>
+					<textarea rows="10" cols="80" class="message-input">
 						
 					</textarea>
 
-					<button class="submit-btn">Submit</button>
+					<button type="submit" class="submit-btn">Submit</button>
 				</div>
 				
 			</div>
