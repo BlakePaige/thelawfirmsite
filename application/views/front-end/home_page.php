@@ -1,6 +1,9 @@
 <?php  
 defined('BASEPATH') OR exit('No direct script access allowed');?>
 
+<header class="">
+
+
 <div class="main-header">
 	<div class="background-banner-image">
 
@@ -216,6 +219,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 					</div>
 				</div>
 			</div>
+			<!-- Vusi Rajuili Commercial and Labour Law Attorneys
+2nd Floor Ntando Square
+Office C
+Corner Frikkie Meyer Boulevard and Cherry Streets
+SE3 Vandebijlpark
+
+Tel 016 9821299
+Fax 0169821136
+Cell numbers 0797525728
+-->
+
 			<!-- <div class="contact-container">
 				<div class="contact-form">
 					
